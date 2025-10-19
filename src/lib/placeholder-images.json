@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "volunteer-1",
+      "description": "Avatar for Dr. Anya Sharma",
+      "imageUrl": "https://images.unsplash.com/photo-1683348858689-f4e10994804d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3b21hbiUyMGRvY3RvcnxlbnwwfHx8fDE3NjA3MzQxMzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman doctor"
+    },
+    {
+      "id": "volunteer-2",
+      "description": "Avatar for Rohan Verma",
+      "imageUrl": "https://images.unsplash.com/photo-1632054224659-280be3239aff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBwYXJhbWVkaWN8ZW58MHx8fHwxNzYwODMyNDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man paramedic"
+    },
+    {
+      "id": "volunteer-3",
+      "description": "Avatar for Priya Desai",
+      "imageUrl": "https://images.unsplash.com/photo-1688588162861-863088aa99f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBudXJzZXxlbnwwfHx8fDE3NjA3NzY2MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman nurse"
+    },
+    {
+      "id": "volunteer-4",
+      "description": "Avatar for Dr. Kenji Tanaka",
+      "imageUrl": "https://images.unsplash.com/photo-1548101307-a757d5f06d27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYW4lMjBkb2N0b3J8ZW58MHx8fHwxNzYwNzM0MTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man doctor"
+    },
+    {
+      "id": "volunteer-5",
+      "description": "Avatar for Fatima Ahmed",
+      "imageUrl": "https://images.unsplash.com/photo-1635894452975-a74dffebc0d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3b21hbiUyMGNvbW11bml0eXxlbnwwfHx8fDE3NjA4MzI0MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman community"
+    },
+    {
+      "id": "volunteer-6",
+      "description": "Avatar for Leo Gonzalez",
+      "imageUrl": "https://images.unsplash.com/photo-1631816285139-7818552ed385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYW4lMjByZXNlYXJjaGVyfGVufDB8fHx8MTc2MDgzMjQxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man researcher"
+    }
+  ]
+}
